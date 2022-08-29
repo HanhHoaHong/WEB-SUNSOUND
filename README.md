@@ -7,3 +7,5 @@ Các mục công việc cần hoàn thành :
 - Chatbot- Đức - Link hướng dẫn : https://www.youtube.com/playlist?list=PLncHg6Kn2JT6oBfsbNTYHWJNkjF3tNpp4
 
 - Phần footer : Hải Anh
+
+Link WEB cần clone: https://orion.vn/san-pham/banh-chocopie-truyen-thong/
